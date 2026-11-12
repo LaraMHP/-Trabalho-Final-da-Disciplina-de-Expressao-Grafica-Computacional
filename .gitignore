@@ -1,0 +1,5 @@
+dados/
+saidas/preprocessado/
+__pycache__/
+.ipynb_checkpoints/
+*.npz
