@@ -1,0 +1,72 @@
+{
+  "ucddb": {
+    "base": "St. Vincent's University Hospital / University College Dublin Sleep Apnea Database (UCDDB)",
+    "papel": "principal",
+    "versao": "1.0.0",
+    "doi": "10.13026/C26C7D",
+    "licenca": "ODC-By v1.0",
+    "data_acesso": "2026-11-11T18:59:48-03:00",
+    "registros": 25,
+    "fs_spo2_hz": [
+      8.0
+    ],
+    "unidade": [
+      "%"
+    ],
+    "ganho_por_LSB": [
+      0.023687
+    ],
+    "passo_observado_pct": [
+      0.0237
+    ],
+    "horas_gravadas": 173.4,
+    "horas_validas_analise": 133.1,
+    "falha": null
+  },
+  "apnea_hrv_spo2": {
+    "base": "APNEA HRV+SpO2 Dataset (base HuGCDN2014-OXI, Hosp. Univ. Dr. Negrín)",
+    "papel": "externa 1",
+    "versao": "1",
+    "doi": "10.17632/cdxs63gdzc.1",
+    "licenca": "CC BY 4.0",
+    "data_acesso": "2026-11-11T18:59:48-03:00",
+    "registros": 83,
+    "fs_spo2_hz": [
+      50.0
+    ],
+    "unidade": [
+      "% (assumida; não informada)"
+    ],
+    "ganho_por_LSB": [],
+    "passo_observado_pct": [
+      0.0092
+    ],
+    "horas_gravadas": 562.3,
+    "horas_validas_analise": 555.6,
+    "falha": null
+  },
+  "psgipa": {
+    "base": "PSG-IPA: a PolySomnoGraphic Inter-scorer Performance Assessment database (tarefa respiratória)",
+    "papel": "externa 2",
+    "versao": "1.0.0",
+    "doi": "10.13026/esx0-nw71",
+    "licenca": "CC BY 4.0",
+    "data_acesso": "2026-11-11T18:59:48-03:00",
+    "registros": 5,
+    "fs_spo2_hz": [
+      4.0
+    ],
+    "unidade": [
+      "%"
+    ],
+    "ganho_por_LSB": [
+      1.0
+    ],
+    "passo_observado_pct": [
+      1.0
+    ],
+    "horas_gravadas": 34.6,
+    "horas_validas_analise": 29.7,
+    "falha": null
+  }
+}

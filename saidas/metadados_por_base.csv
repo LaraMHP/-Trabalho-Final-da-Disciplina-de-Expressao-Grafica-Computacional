@@ -1,0 +1,4 @@
+base,registros,canal,fs (Hz),fonte da fs,unidade,faixa digital,faixa física,ganho (%/LSB),resolução do formato,passo observado (%),pré-filtro,conversão
+UCDDB,25,SpO2,8,cabeçalho EDF,%,-2048 a 2047,0 a 97,0.02369,16 bits,0.02369,HP:0.00 Hz      LP: 0.00 Hz,digital → físico pelo cabeçalho
+APNEA HRV+SpO2,83,"HuGCDN2014-OXI/SAT/C1.mat:SAT (316 janelas), HuGCDN2014-OXI/SAT/C10.mat:SAT (452 janelas)",50,janelas de 5 min com 15000 amostras (= 50 Hz; documentação: 50 Hz),% (assumida; não informada),não se aplica,não informada,não informado,não informada,0.009155,não informado,valores já em %
+PSG-IPA,5,SaO2,4,cabeçalho EDF,%,0 a 255,0 a 255,1,16 bits,1,não informado,digital → físico pelo cabeçalho

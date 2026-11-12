@@ -1,0 +1,58 @@
+{
+  "ucddb": {
+    "nome": "St. Vincent's University Hospital / University College Dublin Sleep Apnea Database (UCDDB)",
+    "sigla": "UCDDB",
+    "papel": "principal",
+    "versao": "1.0.0",
+    "doi": "10.13026/C26C7D",
+    "url_arquivos": "https://physionet.org/files/ucddb/1.0.0/",
+    "pagina": "https://physionet.org/content/ucddb/1.0.0/",
+    "licenca": "ODC-By v1.0",
+    "referencia": "apneias e hipopneias com início e duração, 1 técnica do sono",
+    "data_acesso": "2026-11-11T18:59:48-03:00",
+    "ultima_execucao": "2026-11-12T20:27:10-03:00",
+    "n_arquivos": 77,
+    "bytes_total": 806208734,
+    "integridade": {
+      "ok": 77
+    }
+  },
+  "psgipa": {
+    "nome": "PSG-IPA: a PolySomnoGraphic Inter-scorer Performance Assessment database (tarefa respiratória)",
+    "sigla": "PSG-IPA",
+    "papel": "externa 2",
+    "versao": "1.0.0",
+    "doi": "10.13026/esx0-nw71",
+    "url_arquivos": "https://physionet.org/files/psg-ipa/1.0.0/",
+    "pagina": "https://physionet.org/content/psg-ipa/1.0.0/",
+    "licenca": "CC BY 4.0",
+    "referencia": "eventos respiratórios de 12 avaliadores (modo manual)",
+    "data_acesso": "2026-11-11T18:59:48-03:00",
+    "ultima_execucao": "2026-11-12T20:27:10-03:00",
+    "n_arquivos": 65,
+    "bytes_total": 606971265,
+    "integridade": {
+      "ok": 65
+    }
+  },
+  "apnea_hrv_spo2": {
+    "nome": "APNEA HRV+SpO2 Dataset (base HuGCDN2014-OXI, Hosp. Univ. Dr. Negrín)",
+    "sigla": "APNEA HRV+SpO2",
+    "papel": "externa 1",
+    "versao": "1",
+    "doi": "10.17632/cdxs63gdzc.1",
+    "id_mendeley": "cdxs63gdzc",
+    "pagina": "https://data.mendeley.com/datasets/cdxs63gdzc/1",
+    "licenca": "CC BY 4.0",
+    "fs_documentada": 50.0,
+    "referencia": "rótulo apneia/não apneia por minuto, especialista (AASM)",
+    "artigo": "Martín-González et al., Sensors 23(9):4267, 2023, DOI 10.3390/s23094267",
+    "data_acesso": "2026-11-11T18:59:48-03:00",
+    "ultima_execucao": "2026-11-12T20:27:10-03:00",
+    "n_arquivos": 249,
+    "bytes_total": 107814825,
+    "integridade": {
+      "sem hash publicado": 249
+    }
+  }
+}

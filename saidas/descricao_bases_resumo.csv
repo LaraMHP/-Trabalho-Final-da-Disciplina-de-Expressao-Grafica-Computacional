@@ -1,0 +1,28 @@
+base,,0
+UCDDB,registros,25
+UCDDB,fs SpO₂ (Hz),8
+UCDDB,"duração (h), média ± dp",6.93 ± 0.54
+UCDDB,"duração (h), faixa",5.93–7.71
+UCDDB,horas gravadas,173.4
+UCDDB,horas válidas p/ análise,133.1
+UCDDB,"sono (h), média",5.36
+UCDDB,apneias / hipopneias (total),695 / 2623
+UCDDB,"IAH, média (faixa)",24.2 (2.0–91.0)
+APNEA HRV+SpO2,registros,83
+APNEA HRV+SpO2,fs SpO₂ (Hz),50
+APNEA HRV+SpO2,"duração (h), média ± dp",6.77 ± 1.32
+APNEA HRV+SpO2,"duração (h), faixa",3.12–7.90
+APNEA HRV+SpO2,horas gravadas,562.3
+APNEA HRV+SpO2,horas válidas p/ análise,555.6
+APNEA HRV+SpO2,minutos rotulados,34003
+APNEA HRV+SpO2,% minutos com apneia,23.1
+APNEA HRV+SpO2,grupos,"{'controle': 38, 'dessaturante': 34, 'não dessaturante': 11}"
+PSG-IPA,registros,5
+PSG-IPA,fs SpO₂ (Hz),4
+PSG-IPA,"duração (h), média ± dp",6.92 ± 1.01
+PSG-IPA,"duração (h), faixa",5.76–8.41
+PSG-IPA,horas gravadas,34.6
+PSG-IPA,horas válidas p/ análise,29.7
+PSG-IPA,"sono (h), média",5.95
+PSG-IPA,apneias / hipopneias (total),335 / 133
+PSG-IPA,"IAH, média (faixa)",15.4 (4.0–53.1)
