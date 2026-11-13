@@ -6,7 +6,7 @@ sensibilidade e preditividade positiva em relação aos eventos anotados e pela 
 
 Projeto final de **Expressão Gráfica Computacional** — Engenharia Biomédica, PUC-Campinas (2026).
 Dupla: Lara Madaschi Heinrich Piaia (RA 24025386).
-Protocolo de 1 página: [`docs/protocolo_entrega2.pdf`][(docs/protocolo_entrega2.pdf)](https://github.com/LaraMHP/-Trabalho-Final-da-Disciplina-de-Expressao-Grafica-Computacional/blob/a4b2cd87ef4a754503bd6bf75903c4f5104ccff4/Protocolo.pdf).
+Protocolo de 1 página: [`docs/protocolo_entrega2.pdf`](https://github.com/LaraMHP/-Trabalho-Final-da-Disciplina-de-Expressao-Grafica-Computacional/blob/a4b2cd87ef4a754503bd6bf75903c4f5104ccff4/Protocolo.pdf).
 
 Referência: Yam, K. J. M. et al. *Artificial intelligence diagnosis of obstructive sleep apnea using overnight
 pulse oximetry: a systematic review and Bayesian meta-analysis.* JMIR, v. 28, e80349, 2026.
