@@ -6,7 +6,7 @@ sensibilidade e preditividade positiva em relação aos eventos anotados e pela 
 
 Projeto final de **Expressão Gráfica Computacional** — Engenharia Biomédica, PUC-Campinas (2026).
 Dupla: Lara Madaschi Heinrich Piaia (RA 24025386).
-Protocolo de 1 página: [`docs/protocolo_entrega2.pdf`](https://github.com/LaraMHP/-Trabalho-Final-da-Disciplina-de-Expressao-Grafica-Computacional/blob/839b47b436a37adbfdc9cc0f6791bd8dfa263ae2/Protocolo.pdf).]
+Protocolo de 1 página: [`docs/protocolo_entrega2.pdf`][(docs/protocolo_entrega2.pdf)](https://github.com/LaraMHP/-Trabalho-Final-da-Disciplina-de-Expressao-Grafica-Computacional/blob/a4b2cd87ef4a754503bd6bf75903c4f5104ccff4/Protocolo.pdf).
 
 Referência: Yam, K. J. M. et al. *Artificial intelligence diagnosis of obstructive sleep apnea using overnight
 pulse oximetry: a systematic review and Bayesian meta-analysis.* JMIR, v. 28, e80349, 2026.
@@ -14,7 +14,8 @@ DOI: [10.2196/80349](https://doi.org/10.2196/80349).
 
 ## Executar
 
-Notebook no Colab: https://colab.research.google.com/drive/1uxt-1fSJ_0WcgO7SjcVXo3Bt1tcIPngu
+Notebook no Colab: https://colab.research.google.com/drive/1ZdNpOYHj2vAWHsLlmMKpMpmQkBi5dkqJ#scrollTo=z7j3_7X4EWI7
+
 1. Abra `notebooks/Código aquisição e processamento.ipynb` no Google Colab (já salvo com as saídas da execução)
    e, para reproduzir, use **Ambiente de execução → Executar tudo**.
 2. Autorize o acesso ao Google Drive: os dados ficam na pasta `egc_apneia` e não são baixados de novo
@@ -78,6 +79,8 @@ ND5 e D23 têm mais rótulos que minutos de sinal (212 e 11 min).
 ![Noite inteira, bruto × validado](saidas/figuras/fig1_noite_bruto_validado.png)
 ![Bruto × média móvel × wavelet](saidas/figuras/fig2_zoom_preprocessamento.png)
 ![Mesma janela nas 5 frequências](saidas/figuras/fig3_frequencias.png)
+![Frequências — APNEA HRV+SpO2](saidas/figuras/fig3_frequencias_apnea_hrv_spo2.png)
+![Frequências — PSG-IPA](saidas/figuras/fig3_frequencias_psgipa.png)
 ![PSG-IPA: eventos dos 12 avaliadores](saidas/figuras/fig4_psgipa_avaliadores.png)
 
 As dúvidas sobre o detector (Etapa 4) estão na Seção 9 do notebook.
