@@ -14,8 +14,7 @@ DOI: [10.2196/80349](https://doi.org/10.2196/80349).
 
 ## Executar
 
-Notebook no Colab: _(link do notebook)_
-
+Notebook no Colab: https://colab.research.google.com/drive/1uxt-1fSJ_0WcgO7SjcVXo3Bt1tcIPngu
 1. Abra `notebooks/Código aquisição e processamento.ipynb` no Google Colab (já salvo com as saídas da execução)
    e, para reproduzir, use **Ambiente de execução → Executar tudo**.
 2. Autorize o acesso ao Google Drive: os dados ficam na pasta `egc_apneia` e não são baixados de novo
